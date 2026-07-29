@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-<script>
-
-
 let num1 = prompt("enter first number")
 let num2 = prompt("enter second number")
 
@@ -27,8 +15,3 @@ else if (calculation === "*") {
 else if (calculation === "/") {
     alert(+num1 / +num2)
 }
-
-</script>
-
-</body>
-</html>
